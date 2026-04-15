@@ -639,5 +639,3 @@ src/
 > 📌 **Up Next:** Props — how to pass data into components to make them dynamic.
 
 ---
-
-*Guide written for React 18+ with Vite. More topics coming soon: Props, State, Events, Hooks, and beyond.*
