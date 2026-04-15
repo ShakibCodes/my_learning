@@ -1,5 +1,4 @@
 # ⚛️ React JS — The Complete Developer Guide
-> **Topic 1 of many** · Crafted for clarity, depth, and real-world understanding
 
 ---
 
